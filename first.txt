@@ -1,2 +1,3 @@
 feature 1 modifications
+Second modification - made on master
 feature 1, modification 2
