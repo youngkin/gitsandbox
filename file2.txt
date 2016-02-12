@@ -1,3 +1,5 @@
 file2 - initial version on f1
 2nd update - on branch f1
 file2 - first modification on f2.
+
+First change on amend branch
