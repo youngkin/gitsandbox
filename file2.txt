@@ -5,3 +5,5 @@ file2 - first modification on f2.
 First change on amend branch
 
 Merge test change on master prior to merging with mergetest.
+
+2nd merge test chang on master prior to merging with merge test.
