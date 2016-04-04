@@ -6,3 +6,6 @@ feature 1, modification 3, after file3 - f2 change 2, commit 9d49
 Added a couple of blank lines,  plus this one, to see what a squashed merge looks like in git log.
 
 Another 2 lines for 2nd commit/change to see what a squashed merge looks like in git log.
+
+
+Merge test...
