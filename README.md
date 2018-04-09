@@ -12,3 +12,5 @@ On the rebase mentioned in the 2 previous paragraphs kdiff3 messed up the subseq
 either line 6 or line 8 to be in the merge, not both. Line 9 was unaffected. A text based merge allowed for the
 correct merge although I did have to change the ordering of the lines to get them to be as seen above. The
 merge markers showed the lines in the opposite order.
+
+Started looking at https://hackernoon.com/https-medium-com-zspajich-understanding-git-data-model-95eb16cc99f5
